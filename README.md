@@ -1,0 +1,2 @@
+# evil-hangman
+This program allows a user to play hangman with however many letters they decide. However, it has a dictionary and a few books loaded into it, which is filtered depending on what letter the user decides. When a user chooses a letter, the program looks at all the words and their frequency of appearance in the books. It separates the words into ones that have that letter and ones that do not and chooses the group that is larger. It continues to do this to make it almost impossible for a user to win. 
